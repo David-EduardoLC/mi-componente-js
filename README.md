@@ -273,6 +273,6 @@ Formulario con capus rellenados
 https://youtu.be/WOUJ4MwsG3c
 
 ## GitHub Pages
-http://127.0.0.1:5500/BmiLibreria/libreria.html
+https://david-eduardolc.github.io/mi-componente-js/
 
 
