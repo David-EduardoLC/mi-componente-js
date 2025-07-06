@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="../css/componente.css">
+  <title>Componente Generar Contraseña</title>
+</head>
+
+<body>
+  <div class="contenedor">
+    <h2>Generador Contraseña Segura</h2>
+    
+    <label for="password">Contraseña:</label>
+    <div class="input-group">
+      <input type="password" id="password" placeholder="Ingrese su contraseña" oninput="evaluarPassword(this.value)" />
+      <button onclick="togglePassword()" title="Mostrar/Ocultar contraseña">👁️</button>
+    </div>
+   <p class="recomendacion">Para mayor seguridad, usa al menos 10 caracteres incluyendo mayúsculas, minúsculas, números y símbolos.</p>
+    <div class="input-group">
+      <button onclick="generarPassword()">Generar contraseña segura</button>
+    </div>
+
+    <div class="barra-seguridad" id="barraSeguridad">
+      <div class="nivel" id="nivelSeguridad"></div>
+    </div>
+    <p id="textoSeguridad"></p>
+  </div>
+
+  <script src="../js/componente.js"></script>
+</body>
+</html>
