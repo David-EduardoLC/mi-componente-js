@@ -25,15 +25,15 @@ Oaxaca, Oaxaca, a 04 de julio de 2025.
 - Componente web para generar contraseñas seguras con validación de seguridad, botón de mostrar/ocultar y estilos personalizados.
   
 ## Descripción General
--Su propósito principal es generar contraseñas seguras que cumplan con criterios de seguridad recomendados, evitando el uso de claves débiles o predecibles.
+- Su propósito principal es generar contraseñas seguras que cumplan con criterios de seguridad recomendados, evitando el uso de claves débiles o predecibles.
 
--El componente GeneradorContraseñaSegura ofrece una interfaz intuitiva para ingresar contraseñas manualmente o generarlas automáticamente con un clic.
+- El componente GeneradorContraseñaSegura ofrece una interfaz intuitiva para ingresar contraseñas manualmente o generarlas automáticamente con un clic.
 
--Incluye funciones como mostrar/ocultar la contraseña, validación visual de seguridad y recomendaciones sobre el uso de caracteres variados.
+- Incluye funciones como mostrar/ocultar la contraseña, validación visual de seguridad y recomendaciones sobre el uso de caracteres variados.
 
--Este componente resuelve el problema común de usuarios que crean contraseñas inseguras, brindando una herramienta fácil de integrar en cualquier formulario web.
+- Este componente resuelve el problema común de usuarios que crean contraseñas inseguras, brindando una herramienta fácil de integrar en cualquier formulario web.
 
--Se puede utilizar en formularios de registro, inicio de sesión, restablecimiento de contraseña o cualquier sistema donde se requiera una clave segura, sin necesidad de frameworks externos.
+- Se puede utilizar en formularios de registro, inicio de sesión, restablecimiento de contraseña o cualquier sistema donde se requiera una clave segura, sin necesidad de frameworks externos.
 
 
 ## ¿Qué problema resuelve?
